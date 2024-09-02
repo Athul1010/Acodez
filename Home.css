@@ -484,6 +484,9 @@
     padding: 5rem 5rem;
 }
 @media only screen and (max-width: 600px) {
+    .quick{
+        padding-top: 20px;
+    }
     .rajat-img{
         height: 210px;
     }
